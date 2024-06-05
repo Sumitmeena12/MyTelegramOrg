@@ -9,9 +9,9 @@
     "scrapper",
     "3"
   ],
-  "repository": "https://github.com/PunyaChael/MyTelegramOrg",
+  "repository": "https://github.com/Sumitmeena12/MyTelegramOrg",
   "success_url": "https://telegram.dog/ScrapKazeBot",
-  "website": "https://github.com/PunyaChael/MyTelegramOrg",
+  "website": "https://github.com/Sumitmeena12/MyTelegramOrg",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -19,7 +19,7 @@
     },
     "OWNER_USERNAME": {
       "description": "enter your Username without @",
-      "value": "KenalSayaaa"
+      "value": "Farzicoderxd"
     },
     "TG_BOT_TOKEN": {
       "description": "Your bot token, as a string."
@@ -46,7 +46,7 @@
     },
     "FTEXT": {
       "description": "the footer text that will be seen in the bot message, after the final edit",
-      "value": "By : @KenalSayaaa",
+      "value": "By : @Farzicoderxd",
       "required": false
     },
     "START_TEXT": {
