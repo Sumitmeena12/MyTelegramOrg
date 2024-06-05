@@ -7,7 +7,7 @@
 
 
 </a>
-    <a href="https://telegram.me/NothingSupportBot">
+    <a href="https://t.me/dragondpworld">
         <img
             src="https://img.shields.io/badge/Support Group-blue?&style=for-the-badge&logo=Telegram"
             alt="Telegram"
